@@ -1,0 +1,31 @@
+,City,1st Most Common Venue,1st Venue Frequency,2nd Most Common Venue,2nd Venue Frequency,3rd Most Common Venue,3rd Venue Frequency,4th Most Common Venue,4th Venue Frequency,5th Most Common Venue,5th Venue Frequency,6th Most Common Venue,6th Venue Frequency,7th Most Common Venue,7th Venue Frequency,8th Most Common Venue,8th Venue Frequency,9th Most Common Venue,9th Venue Frequency,10th Most Common Venue,10th Venue Frequency,Unique Categories,Total Venues
+0,University of Oxford,Pub,42,Hotel,15,Grocery Store,13,Coffee Shop,11,Café,11,Park,8,Supermarket,8,Chinese Restaurant,7,Bakery,7,Restaurant,7,102,279
+1,University of Southampton,Grocery Store,41,Pub,35,Coffee Shop,22,Supermarket,13,Fast Food Restaurant,12,Park,10,Pizza Place,9,Hotel,8,Bar,7,Italian Restaurant,7,93,314
+2,University of Sussex,Pub,15,Café,13,Coffee Shop,13,Park,9,Grocery Store,5,Gym / Fitness Center,4,Pizza Place,3,Gastropub,3,Indian Restaurant,3,Bakery,3,66,139
+3,University of Reading,Pub,35,Grocery Store,16,Coffee Shop,14,Hotel,12,Supermarket,12,Gastropub,10,Clothing Store,8,Café,8,Gym / Fitness Center,7,Park,7,104,290
+4,University of Cambridge,Pub,39,Coffee Shop,13,Café,12,Grocery Store,11,Hotel,10,Restaurant,8,Gastropub,7,Burger Joint,6,Supermarket,6,Gym / Fitness Center,6,84,238
+5,University of East Anglia,Pub,36,Coffee Shop,11,Grocery Store,9,Café,9,Hotel,7,Supermarket,7,Bar,6,Fast Food Restaurant,6,Park,5,Gym / Fitness Center,4,76,195
+6,University of Bristol,Pub,49,Café,21,Bar,19,Park,18,Coffee Shop,17,Grocery Store,11,Restaurant,8,Burger Joint,7,Indian Restaurant,7,Pizza Place,7,94,317
+7,University of Exeter,Pub,21,Coffee Shop,11,Café,8,Supermarket,6,Hotel,6,Bar,4,Furniture / Home Store,3,Grocery Store,3,Bakery,3,Bookstore,3,66,137
+8,University of Bath,Pub,17,Hotel,15,Café,10,Gastropub,9,Grocery Store,9,Park,7,Coffee Shop,5,Bar,5,Supermarket,4,Restaurant,4,76,179
+9,University of Warwick,Pub,26,Coffee Shop,15,Café,13,Indian Restaurant,11,Hotel,9,Supermarket,8,Grocery Store,7,Park,7,Sandwich Place,6,Restaurant,4,76,209
+10,University of Birmingham,Pub,36,Coffee Shop,26,Indian Restaurant,22,Grocery Store,18,Park,17,Bar,15,Café,12,Sandwich Place,11,Supermarket,11,Fast Food Restaurant,11,107,371
+11,Keele University,Pub,14,Coffee Shop,11,Grocery Store,11,Supermarket,9,Bar,5,Sandwich Place,4,Bus Stop,4,Clothing Store,4,Fast Food Restaurant,4,Furniture / Home Store,4,53,132
+12,Coventry University,Pub,28,Coffee Shop,16,Supermarket,16,Fast Food Restaurant,12,Indian Restaurant,12,Hotel,12,Grocery Store,10,Café,9,Sandwich Place,9,Convenience Store,8,83,261
+13,University of Nottingham,Pub,42,Grocery Store,22,Coffee Shop,21,Bar,16,Supermarket,10,Café,9,Gym / Fitness Center,9,Indian Restaurant,9,Fast Food Restaurant,8,Park,8,108,334
+14,University of Leicester,Pub,23,Grocery Store,19,Coffee Shop,14,Park,13,Supermarket,13,Indian Restaurant,11,Pizza Place,8,Bar,8,Fast Food Restaurant,6,Clothing Store,6,92,258
+15,Loughborough University,Pub,13,Hotel,8,Grocery Store,6,Gym / Fitness Center,3,Bar,3,Gastropub,3,Park,3,Café,3,Pizza Place,3,Coffee Shop,3,44,86
+16,Nottingham Trent University,Pub,37,Grocery Store,18,Bar,16,Coffee Shop,16,Café,13,Supermarket,11,Indian Restaurant,10,Park,10,Fast Food Restaurant,8,Gym / Fitness Center,7,111,312
+17,Imperial College London,Pub,32,Café,28,Park,22,Hotel,22,Coffee Shop,20,Bakery,17,French Restaurant,16,Italian Restaurant,12,Pizza Place,12,Gastropub,12,155,606
+18,University College London,Hotel,31,Pub,27,Coffee Shop,21,Café,18,Bakery,16,Theater,14,Park,13,Ice Cream Shop,13,Bookstore,11,Japanese Restaurant,11,165,585
+19,King's College London,Hotel,35,Coffee Shop,33,Pub,24,Theater,16,Café,15,Park,15,Bookstore,13,Pizza Place,11,Art Gallery,10,Beer Bar,10,150,552
+20,London School of Economics and Political Science,Hotel,32,Coffee Shop,30,Pub,27,Café,14,Theater,14,Park,14,Bookstore,13,Bakery,13,Pizza Place,11,Art Gallery,11,154,561
+21,"Queen Mary, University of London",Pub,51,Coffee Shop,38,Café,28,Park,24,Hotel,17,Cocktail Bar,15,Bar,13,Gym / Fitness Center,12,Bakery,12,Italian Restaurant,11,148,544
+22,University of Manchester,Pub,34,Bar,25,Coffee Shop,20,Café,18,Indian Restaurant,18,Park,14,Hotel,11,Italian Restaurant,10,Grocery Store,9,Middle Eastern Restaurant,9,127,406
+23,University of Liverpool,Pub,38,Coffee Shop,26,Grocery Store,22,Bar,15,Fast Food Restaurant,14,Café,12,Discount Store,12,Hotel,12,Park,11,Restaurant,10,110,368
+24,Lancaster University,Pub,27,Coffee Shop,5,Hotel,4,Sandwich Place,4,Supermarket,4,Indian Restaurant,4,Pizza Place,3,Harbor / Marina,3,Café,3,Clothing Store,3,63,128
+25,University of Sheffield,Pub,45,Café,16,Coffee Shop,16,Grocery Store,14,Park,14,Bar,11,Supermarket,7,Pizza Place,7,Gym / Fitness Center,6,Indian Restaurant,5,87,261
+26,University of Leeds,Pub,30,Bar,25,Coffee Shop,25,Supermarket,19,Café,18,Grocery Store,12,Gym / Fitness Center,9,Thai Restaurant,9,Italian Restaurant,7,Pizza Place,6,99,331
+27,University of York,Pub,33,Café,16,Hotel,14,Grocery Store,10,Coffee Shop,9,Bar,9,Historic Site,8,Bus Stop,5,Italian Restaurant,5,Sandwich Place,5,79,216
+28,Durham University,Pub,13,Coffee Shop,10,Hotel,9,Grocery Store,6,Café,6,Supermarket,5,Italian Restaurant,5,Bar,4,Asian Restaurant,3,Restaurant,3,62,132
+29,Newcastle University,Pub,33,Supermarket,20,Coffee Shop,19,Grocery Store,17,Café,17,Hotel,13,Bar,13,Italian Restaurant,10,Pizza Place,10,Indian Restaurant,9,114,368
